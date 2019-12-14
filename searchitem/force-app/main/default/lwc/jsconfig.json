@@ -1,7 +1,14 @@
 {
     "compilerOptions": {
         "baseUrl": ".",
-        "paths": {},
+        "paths": {
+            "c/searhItemDemo": [
+                "searhItemDemo/searhItemDemo.js"
+            ],
+            "c/CreateRecordLWCForm": [
+                "CreateRecordLWCForm/CreateRecordLWCForm.js"
+            ]
+        },
         "experimentalDecorators": true
     },
     "include": [
